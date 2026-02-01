@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "wrangler.json": "jsonc"
+    },
+    "files.readonlyInclude": {
+        "**/routeTree.gen.ts": true
+    },
+    "files.watcherExclude": {
+        ".direnv": true,
+        "**/routeTree.gen.ts": true
+    },
+    "search.exclude": {
+        "**/routeTree.gen.ts": true
+    }
+}
